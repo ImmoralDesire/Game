@@ -1,0 +1,3 @@
+D:/IdeaProjects/Game/cmake-build-release/CMakeFiles/Game.dir
+D:/IdeaProjects/Game/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/IdeaProjects/Game/cmake-build-release/CMakeFiles/rebuild_cache.dir
